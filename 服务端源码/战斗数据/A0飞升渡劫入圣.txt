@@ -1,0 +1,111 @@
+
+
+function 战斗准备类:取飞升信息1(任务id,玩家id)
+          local 战斗单位={}
+          战斗单位.等级=130
+          战斗单位.难度="中级"
+          战斗单位.不加修炼 = true
+          战斗单位.名称组={"人"}
+          战斗单位.模型组={"天兵"}
+          战斗单位.加载组={"点杀"}
+          for n=2,10 do
+              table.insert(战斗单位.名称组,"人")
+              table.insert(战斗单位.模型组,"天兵")
+              table.insert(战斗单位.加载组,"点杀")
+          end
+          return 战斗单位
+end
+
+function 战斗准备类:取飞升信息2(任务id,玩家id)
+          local 战斗单位={}
+          战斗单位.等级=130
+          战斗单位.难度="中级"
+          战斗单位.系数 = {修炼=0.5}
+          战斗单位.名称组={"魔"}
+          战斗单位.模型组={"天兵"}
+          战斗单位.加载组={"法术"}
+          for n=2,10 do
+              table.insert(战斗单位.名称组,"魔")
+              table.insert(战斗单位.模型组,"天兵")
+              table.insert(战斗单位.加载组,"法术")
+          end
+          return 战斗单位
+end
+
+function 战斗准备类:取飞升信息3(任务id,玩家id)
+          local 战斗单位={}
+          战斗单位.等级=130
+          战斗单位.难度="中级"
+          战斗单位.名称组={"仙"}
+          战斗单位.模型组={"天兵"}
+          战斗单位.加载组={"群杀"}
+          for n=2,10 do
+              table.insert(战斗单位.名称组,"仙")
+              table.insert(战斗单位.模型组,"天兵")
+              table.insert(战斗单位.加载组,"群杀")
+          end
+          return 战斗单位
+end
+
+
+
+function 战斗准备类:取渡劫信息(任务id,玩家id)
+          local 战斗单位={}
+          战斗单位.等级=150
+          战斗单位.难度="高级"
+          战斗单位.系数 = {修炼=1}
+          战斗单位.名称组={"渡劫大神"}
+          战斗单位.模型组={"灵灯侍者"}
+          战斗单位.加载组={"群杀"}
+          for n=2,3 do
+              table.insert(战斗单位.名称组,"渡劫使者")
+              table.insert(战斗单位.模型组,"狂豹人形")
+              table.insert(战斗单位.加载组,"法术")
+          end
+          for n=4,5 do
+              table.insert(战斗单位.名称组,"渡劫使者")
+              table.insert(战斗单位.模型组,"增长巡守")
+              if n == 4 then
+                  table.insert(战斗单位.加载组,"辅助")
+                  战斗单位[n]={治疗能力=1500}
+              else
+                  table.insert(战斗单位.加载组,"封印")
+              end
+          end
+          for n=6,10 do
+              table.insert(战斗单位.名称组,"渡劫使者")
+              table.insert(战斗单位.模型组,"持国巡守")
+          end
+          return 战斗单位
+end
+
+
+function 战斗准备类:取入圣信息(任务id,玩家id)
+           local 战斗单位={}
+            战斗单位.等级=175
+            战斗单位.难度="困难"
+            战斗单位.系数 = {修炼=1}
+            战斗单位.名称组={"神界之主"}
+            战斗单位.模型组={"九头精怪"}
+            战斗单位.加载组={"法术"}
+            for n=2,3 do
+                table.insert(战斗单位.名称组,"神界精英")
+                table.insert(战斗单位.模型组,"般若天女")
+                table.insert(战斗单位.加载组,"法术")
+            end
+            for n=4,5 do
+                table.insert(战斗单位.名称组,"神界守护者")
+                table.insert(战斗单位.模型组,"增长巡守")
+                if n == 4 then
+                    table.insert(战斗单位.加载组,"辅助")
+                    战斗单位[n]={治疗能力=2500}
+                else
+                    table.insert(战斗单位.加载组,"封印")
+                end
+            end
+            for n=6,10 do
+                table.insert(战斗单位.名称组,"神界天兵")
+                table.insert(战斗单位.模型组,"持国巡守")
+            end
+            return 战斗单位
+end

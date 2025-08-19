@@ -1,0 +1,20 @@
+function 战斗准备类:取会员福利信息(任务id,玩家id)
+          local 战斗单位={}
+          战斗单位.等级 = 取队伍平均等级(玩家数据[玩家id].队伍,玩家id)
+          战斗单位.名称组={"会员福利"}
+          战斗单位.模型组={"超级神柚"}
+          战斗单位[1]={不可封印=true}          
+          for i=2,3 do
+              table.insert(战斗单位.名称组,"会员福利")
+              table.insert(战斗单位.模型组,"超级神柚")
+          end
+          for i=4,5 do
+              table.insert(战斗单位.名称组,"会员精英")
+              table.insert(战斗单位.模型组,"超级神柚")
+          end
+          for i=6,10 do
+              table.insert(战斗单位.名称组,"会员护卫")
+              table.insert(战斗单位.模型组,"超级神柚")
+          end
+          return 战斗单位
+end

@@ -1,0 +1,26 @@
+function 战斗准备类:取知了先锋信息(任务id,玩家id)
+          local 战斗单位={}
+          战斗单位.等级 = 取队伍最高等级数(玩家数据[玩家id].队伍,玩家id)
+          战斗单位.难度 ="中级"
+          战斗单位.名称组={任务数据[任务id].名称}
+          战斗单位.模型组={"百足将军"}
+          战斗单位.加载组={"法术"}
+          战斗单位[1]={饰品=true,变异=true}
+          for i=2,3 do
+              table.insert(战斗单位.名称组,"先锋军师")
+              table.insert(战斗单位.模型组,"进阶锦毛貂精")
+              table.insert(战斗单位.加载组,"点杀")
+              战斗单位[i]={饰品=true}
+          end
+          for i=4,5 do
+              table.insert(战斗单位.名称组,"先锋小队长")
+              table.insert(战斗单位.模型组,"进阶犀牛将军兽形")
+              table.insert(战斗单位.加载组,"法术")
+              战斗单位[i]={变异=true}
+          end
+          for i=6,10 do
+              table.insert(战斗单位.名称组,"小虫虫")
+              table.insert(战斗单位.模型组,"海毛虫")
+          end
+          return 战斗单位
+end
