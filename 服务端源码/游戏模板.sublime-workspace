@@ -1,0 +1,1021 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for	for i=1,10"
+			],
+			[
+				"else",
+				"else"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"prin",
+				"print(2	(修复神器.lua)"
+			],
+			[
+				"无",
+				"无称谓"
+			],
+			[
+				"table",
+				"table.print	(gge)"
+			],
+			[
+				"ma",
+				"math.random	([m [, n]])"
+			],
+			[
+				"删除",
+				"删除同类物品"
+			],
+			[
+				"to",
+				"tonumber	(e [, base])"
+			],
+			[
+				"t",
+				"type	(v)"
+			],
+			[
+				"判断",
+				"判断是否为空表	(共用.lua)"
+			],
+			[
+				"tab",
+				"table.remove	(table [, pos])"
+			],
+			[
+				"r",
+				"remove	(奇经八脉.lua)"
+			],
+			[
+				"math",
+				"math.floor	(x)"
+			],
+			[
+				"tu",
+				"tonumber	(e [, base])"
+			],
+			[
+				"get",
+				"getn"
+			],
+			[
+				"fo",
+				"forp	for k,v in pairs()"
+			],
+			[
+				"c",
+				"ceil	(设置.lua)"
+			],
+			[
+				"st",
+				"string.len	(s)"
+			],
+			[
+				"e",
+				"else	else end"
+			],
+			[
+				"self",
+				"self:打开"
+			],
+			[
+				"fl",
+				"floor"
+			],
+			[
+				"lo",
+				"local	local x = 1"
+			],
+			[
+				"ba",
+				"break	(帮派查看类.lua)"
+			],
+			[
+				"多角色",
+				"多角色操作数据"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"els",
+				"else	else end"
+			],
+			[
+				"无介绍",
+				"无介绍报错管理员	(技能库.lua)"
+			],
+			[
+				"物品",
+				"物品信息	(道具行囊.lua)"
+			],
+			[
+				"刷新",
+				"刷新道具行囊"
+			],
+			[
+				"os",
+				"os.time	([table])"
+			],
+			[
+				"取",
+				"取随机数"
+			],
+			[
+				"p",
+				"print"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Script/角色处理类/角色处理类.lua",
+			"settings":
+			{
+				"buffer_size": 206479,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Script/角色处理类/道具处理类.lua",
+			"settings":
+			{
+				"buffer_size": 411106,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Lua/ggeserver.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Lua/ggeserver.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua/ggeserver.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua/ggeserver.sublime-build",
+					"RunInCommand"
+				],
+				[
+					"Packages/Lua/ggeserver.sublime-build",
+					"SetGGE"
+				],
+				[
+					"Packages/Lua/ggeserver.sublime-build",
+					"Stop"
+				],
+				[
+					"Packages/Lua/ggeserver.sublime-build",
+					"AboutGGE"
+				]
+			],
+			[
+				"Packages/Lua/ggeserver.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/梦江南2/服务端源码",
+		"/D/梦江南2/服务端源码/Script",
+		"/D/梦江南2/服务端源码/Script/角色处理类"
+	],
+	"file_history":
+	[
+		"/D/梦江南2/服务端源码/Script/系统处理类/假人战斗处理.lua",
+		"/D/梦江南2/服务端源码/Script/系统处理类/任务处理类.lua",
+		"/D/梦江南2/服务端源码/Script/系统处理类/假人玩家.lua",
+		"/D/梦江南2/服务端源码/main.lua",
+		"/D/梦江南2/服务端源码/Script/战斗处理类/战斗处理类.lua",
+		"/D/梦江南2/服务端源码/Script/战斗处理类/战斗计算/进入战斗.lua",
+		"/D/梦江南2/服务端源码/Script/战斗处理类/战斗计算/战斗流程/法伤流程.lua",
+		"/D/梦江南2/服务端源码/Script/战斗处理类/战斗计算/战斗流程/法伤计算.lua",
+		"/D/梦江南2/服务端源码/Script/战斗处理类/战斗计算/战斗流程/总伤计算.lua",
+		"/D/梦江南2/服务端源码/Script/数据中心/物品.lua",
+		"/D/梦江南2/服务端源码/Script/战斗处理类/战斗计算/结束流程.lua",
+		"/D/梦江南2/服务端源码/Script/战斗处理类/战斗计算/加载数据.lua",
+		"/D/梦江南2/服务端源码/Script/战斗处理类/战斗计算/客户处理.lua",
+		"/D/梦江南2/服务端源码/Script/战斗处理类/战斗计算/命令流程.lua",
+		"/D/梦江南2/服务端源码/Script/战斗处理类/战斗准备类.lua",
+		"/D/梦江南2/服务端源码/Script/战斗处理类/战斗计算/胜利计算.lua",
+		"/C/Users/USER712779/Desktop/梦江南2/服务端源码/main.lua",
+		"/C/Users/USER712779/Desktop/梦江南2/服务端源码/Script/系统处理类/管理工具类.lua",
+		"/C/Users/USER712779/Desktop/梦江南2/服务端源码/Script/系统处理类/网络处理类.lua",
+		"/C/Users/USER712779/Desktop/梦江南2/服务端源码/Script/系统处理类/系统处理类.lua",
+		"/C/Users/USER712779/Desktop/梦江南2/服务端源码/Script/系统处理类/假人战斗处理.lua",
+		"/C/Users/USER712779/Desktop/梦江南2/服务端源码/Script/战斗处理类/战斗处理类.lua",
+		"/C/Users/USER712779/Desktop/梦江南2/服务端源码/Script/战斗处理类/战斗准备类.lua",
+		"/C/Users/USER712779/Desktop/梦江南2/服务端源码/Script/角色处理类/召唤兽处理类.lua",
+		"/C/Users/USER712779/Desktop/梦江南2/服务端源码/Script/角色处理类/道具处理类.lua",
+		"/C/Users/USER712779/Desktop/梦江南2/服务端源码/Script/商店处理类/仙玉商城.lua",
+		"/C/Users/USER712779/Desktop/梦江南2/服务端源码/管理ip.ini",
+		"/C/Users/USER712779/Desktop/梦江南2/main.lua",
+		"/D/防江南老版/新江南/客户端111/script/数据中心/物品库.lua",
+		"/D/防江南老版/新江南/客户端111/script/战斗类/战斗技能栏.lua",
+		"/D/防江南老版/新江南/客户端111/script/战斗类/战斗类.lua",
+		"/D/防江南老版/新江南/客户端111/Main.lua",
+		"/D/防江南老版/新江南/客户端111/script/全局/主控.lua",
+		"/D/防江南老版/新江南/客户端111/script/全局/主显.lua",
+		"/D/防江南老版/新江南/客户端111/script/全局/人物.lua",
+		"/D/防江南老版/新江南/客户端111/script/初系统/开启前界面.lua",
+		"/D/防江南老版/新江南/客户端111/script/全局/自己_专用.LUA",
+		"/D/防江南老版/新江南/客户端111/script/初系统/创建.lua",
+		"/D/防江南老版/新江南/客户端111/script/系统类/丰富文本.lua",
+		"/D/防江南老版/新江南/客户端111/script/全局/变量1.lua",
+		"/D/防江南老版/新江南/客户端111/script/全局/玩家.lua",
+		"/D/防江南老版/新江南/客户端111/script/资源类/地图类.lua",
+		"/D/防江南老版/新江南/客户端111/script/数据中心/技能库.lua",
+		"/D/防江南老版/新江南/客户端111/script/场景类/染色.lua",
+		"/D/防江南老版/新江南/客户端111/script/功能界面/好友列表.lua",
+		"/D/防江南老版/新江南/客户端111/script/初系统/分区.lua",
+		"/D/防江南老版/新江南/客户端111/script/初系统/登陆.lua",
+		"/D/防江南老版/新江南/客户端111/script/功能界面/聊天框外部.lua",
+		"/D/防江南老版/新江南/客户端111/script/初系统/标题.lua",
+		"/D/防江南老版/新江南/客户端111/gge引擎.lua",
+		"/D/防江南老版/新江南/客户端111/script/显示类/提示类.lua",
+		"/D/防江南老版/新江南/客户端111/script/战斗类/战斗动画类.lua",
+		"/D/防江南老版/新江南/客户端111/script/数据中心/战斗模型库.lua",
+		"/D/防江南老版/新江南/客户端111/script/战斗类/战斗单位类.lua",
+		"/D/防江南老版/新江南/客户端111/script/数据中心/染色.lua",
+		"/D/防江南老版/新江南/客户端111/script/场景类/武器染色.lua",
+		"/D/防江南老版/新江南/客户端111/script/场景类/召唤兽属性栏.lua",
+		"/D/防江南老版/新江南/客户端111/script/场景类/召唤兽染色.lua",
+		"/D/防江南老版/新江南/客户端111/script/场景类/召唤兽饰品染色.lua",
+		"/D/防江南老版/新江南/客户端111/script/场景类/坐骑染色.lua",
+		"/D/防江南老版/新江南/客户端111/script/资源类/动画类.lua",
+		"/D/防江南老版/新江南/客户端111/script/资源类/SP.lua",
+		"/D/防江南老版/新江南/客户端111/script/资源类/动画类 - 副本.lua",
+		"/D/防江南老版/新江南/客户端111/script/网络/数据交换.lua",
+		"/D/防江南老版/新江南/客户端111/script/新界面/仙缘商店.lua",
+		"/D/防江南老版/新江南/客户端111/script/神器类/神器查看.lua",
+		"/D/防江南老版/新江南/客户端111/script/多角色操作/多角色仓库类.lua",
+		"/D/防江南老版/新江南/客户端111/script/多角色操作/多角色召唤兽属性栏.lua",
+		"/D/防江南老版/新江南/客户端111/script/多角色操作/多角色召唤兽资质栏.lua",
+		"/D/防江南老版/新江南/客户端111/script/多角色操作/多角色回收系统.lua",
+		"/D/防江南老版/新江南/客户端111/script/多角色操作/多角色奇经八脉.lua",
+		"/D/防江南老版/新江南/客户端111/script/多角色操作/多角色状态栏.lua",
+		"/D/防江南老版/新江南/客户端111/script/多角色操作/多角色道具行囊.lua",
+		"/D/防江南老版/新江南/客户端111/script/资源类/SP - 副本.lua",
+		"/D/防江南老版/新江南/客户端111/script/txt2wpal.lua",
+		"/D/防江南老版/新江南/客户端111/script/神器类/合成灵犀玉.lua",
+		"/D/防江南老版/新江南/客户端111/script1111111/数据中心/物品库.lua",
+		"/D/防江南老版/新江南/客户端111/script1111111/数据中心/庭院特效.lua",
+		"/D/防江南老版/新江南/客户端111/script/数据中心/庭院特效.lua",
+		"/D/防江南老版/新江南/客户端111/script/场景类/商店.lua",
+		"/D/防江南老版/新江南/客户端111/script/功能界面/底图框.lua",
+		"/D/防江南老版/新江南/客户端111/script/功能界面/多开系统.lua",
+		"/C/Users/admin/AppData/Local/Temp/360zip$Temp/360$0/底图框.lua",
+		"/D/防江南老版/新江南/客户端111/script/系统类/人物框.lua",
+		"/D/防江南老版/新江南/客户端111/script/场景类/队伍栏.lua",
+		"/D/防江南老版/新江南/客户端111/script/新界面/共享仓库.lua",
+		"/D/JNHT/lua/授权列表.lua",
+		"/D/防江南老版/新江南/客户端111/script/功能界面/会员福利.lua",
+		"/D/防江南老版/新江南/客户端111/script/系统类/快捷技能栏.lua",
+		"/D/防江南老版/新江南/客户端111/script/全局/变量2.lua",
+		"/D/防江南老版/新江南/客户端111/script/藏宝阁/藏宝阁上架货币.lua",
+		"/D/防江南老版/新江南/客户端111/script/资源类/传送点坐标.lua",
+		"/D/防江南老版/新江南/客户端111/script/场景类/事件.lua",
+		"/D/防江南老版/新江南/客户端111/script/场景类/人物状态栏.lua",
+		"/D/防江南老版/新江南/客户端111/script/场景类/人物称谓栏.lua",
+		"/D/防江南老版/新江南/客户端111/script/场景类/仓库类.lua",
+		"/D/防江南老版/新江南/客户端111/script/场景类/任务追踪栏.lua",
+		"/D/防江南老版/新江南/客户端111/script/场景类/传送点.lua",
+		"/D/防江南老版/新江南/客户端111/script/场景类/制作仙露.lua",
+		"/D/防江南老版/新江南/服务端源码/Script/副本处理类/梦幻奇缘.lua",
+		"/D/防江南老版/新江南/客户端111/script/数据中心/-",
+		"/D/防江南老版/新江南/服务端源码/Script/副本处理类/梦幻奇缘",
+		"/D/防江南老版/新江南/服务端源码/Script/副本处理类/副本.lua",
+		"/D/防江南老版/新江南/客户端111/script/数据中心/音效库.lua",
+		"/D/防江南老版/新江南/客户端111/script/数据中心/普通模型库.lua",
+		"/D/防江南老版/新江南/客户端111/script/数据中心/头像库.lua",
+		"/D/防江南老版/新江南/客户端111/script/积分商店/仙玉商城类.lua",
+		"/D/防江南老版/新江南/客户端111/script/场景类/梦幻指引.lua",
+		"/D/防江南老版/新江南/客户端111/script/资源类/加载类.lua",
+		"/D/防江南老版/新江南/客户端111/script/场景类/装备开运.lua",
+		"/D/防江南老版/新江南/客户端111/script/资源类/路径类.lua",
+		"/D/防江南老版/新江南/客户端111/script/全局/假人.lua",
+		"/D/防江南老版/新江南/客户端111/script/初系统/设置.lua",
+		"/D/防江南老版/新江南/客户端111/script/场景类/第二场景.lua",
+		"/C/Users/admin/AppData/Local/Temp/360zip$Temp/360$7/战斗单位类.lua",
+		"/D/防江南老版/新江南/客户端111/script/数据中心/剧情动画.lua",
+		"/D/防江南老版/新江南/客户端111/script/功能界面/好友查找类.lua",
+		"/D/防江南老版/新江南/客户端111/script/系统类/队伍_格子.lua",
+		"/D/防江南老版/新江南/客户端111/script/新界面/符石数据.lua",
+		"/D/防江南老版/新江南/客户端111/script/新界面/战斗排行框.lua",
+		"/D/防江南老版/新江南/客户端111/script/神器类/神器更换五行.lua",
+		"/D/防江南老版/新江南/客户端111/script/功能界面/小地图.lua",
+		"/D/防江南老版/新江南/客户端111/script/战斗类/多角色自动栏.lua",
+		"/D/防江南老版/新江南/客户端111/script/功能界面/世界地图分类小地图.lua",
+		"/D/防江南老版/新江南/客户端111/script/数据中心/场景.lua",
+		"/D/防江南老版/新江南/客户端111/script/系统类/Greedy.lua",
+		"/D/防江南老版/新江南/客户端111/script/战斗类/多角色技能栏.lua",
+		"/D/防江南老版/新江南/客户端111/script/战斗类/战斗位置.lua"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 129.0,
+		"where_history":
+		[
+			"<project>",
+			"D:\\防江南老版\\新江南\\客户端111",
+			"D:\\防江南老版\\江南修改新\\客户端111",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script\\战斗处理类",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script\\对话处理类",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script\\对话处理类",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script\\战斗处理类",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script\\对话处理类",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\客户端111",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"E:\\江南互通全套_20240614_024632\\服务端源码",
+			"E:\\江南互通全套_20240614_024632\\服务端源码\\Script",
+			"E:\\江南互通全套_20240614_024632\\服务端源码",
+			"E:\\江南互通全套_20240614_024632\\服务端源码\\Script",
+			"E:\\江南互通全套_20240614_024632\\服务端源码",
+			"E:\\江南互通全套_20240614_024632\\服务端源码\\Script",
+			"E:\\江南互通全套_20240614_024632\\服务端源码",
+			"E:\\江南互通全套_20240614_024632\\服务端源码\\Script",
+			"E:\\江南互通全套_20240614_024632\\服务端源码",
+			"E:\\江南互通全套_20240614_024632\\服务端源码\\Script",
+			"E:\\江南互通全套_20240614_024632\\服务端源码",
+			"E:\\江南互通全套_20240614_024632\\服务端源码\\Script",
+			"E:\\江南互通全套_20240614_024632\\服务端源码",
+			"E:\\江南互通全套_20240614_024632\\服务端源码\\Script",
+			"E:\\江南互通全套_20240614_024632\\客户端111",
+			"E:\\江南互通全套_20240614_024632\\客户端111\\script",
+			"E:\\江南互通全套_20240614_024632\\客户端111",
+			"D:\\防江南老版\\江南修改新\\客户端111",
+			"D:\\防江南老版\\江南修改新\\客户端111\\script",
+			"D:\\防江南老版\\江南修改新\\客户端111",
+			"D:\\防江南老版\\江南修改新\\客户端111\\script",
+			"D:\\防江南老版\\江南修改新\\客户端111",
+			"D:\\防江南老版\\江南修改新\\客户端111\\script",
+			"D:\\防江南老版\\江南修改新\\客户端111",
+			"D:\\防江南老版\\江南修改新\\客户端111\\script",
+			"D:\\防江南老版\\江南修改新\\客户端111",
+			"D:\\防江南老版\\江南修改新\\客户端111\\script",
+			"D:\\防江南老版\\江南修改新\\客户端111",
+			"E:\\防江南修改4.3\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script\\系统处理类",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script\\战斗处理类\\战斗处理类.lua",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"D:\\防江南老版\\江南修改新\\服务端源码\\Script\\战斗处理类",
+			"D:\\防江南老版\\江南修改新\\服务端源码",
+			"E:\\防江南修改\\服务端源码",
+			"E:\\防江南修改\\服务端源码\\Script",
+			"E:\\防江南修改\\服务端源码",
+			"E:\\防江南修改\\服务端源码\\Script\\角色处理类",
+			"E:\\防江南修改\\服务端源码",
+			"C:\\Users\\Administrator\\Desktop\\新建文件夹",
+			"C:\\Users\\Administrator\\Desktop\\新建文件夹\\Core",
+			"C:\\Users\\Administrator\\Desktop\\新建文件夹",
+			"E:\\防江南修改\\客户端源码",
+			"D:\\3经脉源码\\客户端源码",
+			"F:\\3经脉源码\\客户端源码"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"xt",
+			"数字id",
+			"高级阵法",
+			"处理",
+			"数字id",
+			"取道具数量",
+			"高级阵法",
+			"100008",
+			"取捉鬼任务信息",
+			"计算道具奖励",
+			"战斗力",
+			"加载",
+			"生成假人召唤兽",
+			"角色数据.bb修炼",
+			"假人战斗",
+			"结算流程处理",
+			"假人",
+			"假人数据",
+			"结束战斗处理",
+			"战斗胜利处理",
+			"结束",
+			"胜利",
+			"假人战斗",
+			"110099",
+			"进入战斗",
+			"10099",
+			"失败",
+			"110099",
+			"武器",
+			"假人",
+			"假人攻击",
+			"实力调整系数",
+			"生成假人战斗属性",
+			"假人战斗",
+			"假人",
+			"pk",
+			"魔化",
+			"发送数据(连接id,16",
+			"改名处理",
+			"创建",
+			"放生处理",
+			"5005",
+			"=200",
+			"config.exe",
+			"127.0.0.1",
+			"我是管理员",
+			"工具",
+			"127.0.0.1",
+			"指梦西游",
+			"风靡江南",
+			"当年情",
+			"无与伦比",
+			"怀旧西游",
+			"扶摇万里",
+			"兰亭序",
+			"花样年华",
+			"问界",
+			"追梦西游",
+			"测试专用",
+			"三年二班",
+			"测试专用",
+			"was",
+			"延迟",
+			"gif",
+			"png",
+			"_ds",
+			"wdf配置",
+			"图像类",
+			"gge图像类",
+			"gge引擎",
+			"开启前界面",
+			"登录",
+			"开启前",
+			"底图资源",
+			"底图",
+			"self.底图 ",
+			"小摊位",
+			"self.影子",
+			"self.任务图标",
+			"self.画线",
+			"登陆资源",
+			"加载类",
+			"登陆资源",
+			"引擎.场景",
+			"gge图像类",
+			"wdf",
+			"wdf配置",
+			"金钟",
+			"太级",
+			"罗汉",
+			"染色方案",
+			"置全屏",
+			"wdf配置",
+			"logo",
+			"wdf配置",
+			"渲染开始",
+			"图像:",
+			"取图像",
+			"置透明色",
+			"渲染开始",
+			"无框",
+			"置无框",
+			"垂直同步",
+			"无框",
+			"w无框",
+			"全局游戏标题",
+			"置",
+			"全局游戏标题",
+			"无框模式",
+			"引擎",
+			"引擎(全局游戏标题",
+			"_base",
+			"引擎(全局游戏标题",
+			"引擎",
+			"资源",
+			"wdf配置",
+			"无框模式",
+			"引擎类",
+			"开启前界面",
+			"青花瓷",
+			"江南风云",
+			"青花瓷",
+			"逍遥游",
+			"江南风云",
+			"前程",
+			"迭代鬼将",
+			"江南单机",
+			"单机"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"zts",
+			"30002",
+			"家具图标.wdf",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Script/角色处理类/角色处理类.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 206479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								233,
+								8,
+								9,
+								20,
+								14,
+								33,
+								0,
+								0,
+								0,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"function_name_status_row": 0,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 68251.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Script/角色处理类/道具处理类.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 411106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								233,
+								8,
+								9,
+								20,
+								14,
+								33,
+								0,
+								0,
+								0,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"function_name_status_row": 0,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 228698.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 188.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Lua/ggeserver.sublime-build",
+	"project": "游戏模板.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
