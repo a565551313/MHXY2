@@ -1,0 +1,1 @@
+do local ret={[1]={},[2]={},[3]={}} return ret end
