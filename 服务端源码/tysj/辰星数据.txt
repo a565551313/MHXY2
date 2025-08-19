@@ -1,0 +1,1 @@
+do local ret={开启=false,队伍={},排行={},时间=1755518460} return ret end

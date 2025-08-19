@@ -1,0 +1,1 @@
+do local ret={转盘时间=10,停止时间=6,下注时间=0} return ret end
